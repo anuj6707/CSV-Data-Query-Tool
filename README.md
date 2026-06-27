@@ -3,7 +3,7 @@
 A command-line Python application that analyzes student data from a CSV file.
 This project demonstrates the use of Python fundamentals and pandas for data processing, filtering, and basic statistical analysis.
 
-## 🚀 Features
+##  Features
 
 * Load and parse CSV data into structured format
 * Search for a student by name
@@ -12,25 +12,13 @@ This project demonstrates the use of Python fundamentals and pandas for data pro
 * Calculate average marks
 * Combine conditions (e.g., low attendance & low marks)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * Pandas
 
-## 📂 Project Structure
 
-* `main.py` – main program with CLI interface
-* `students.csv` – sample dataset
-
-## ▶️ How to Run
-
-1. Make sure Python is installed
-2. Install pandas:
-   pip install pandas
-3. Run the program:
-   python main.py
-
-## 📌 What I Learned
+##  What I Learned
 
 * Working with CSV files using pandas
 * Converting data into dictionaries for processing
@@ -38,7 +26,7 @@ This project demonstrates the use of Python fundamentals and pandas for data pro
 * Building a menu-driven CLI application
 * Writing clean and modular logic
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add better formatted output
 * Support for dynamic queries (e.g., custom filters)
